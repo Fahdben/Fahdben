@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I'm Fahd Benatia
 ### Remote sensing engineer with a passion for technology and coding. 
-#### I like to transform geospatial data into meaningful insights to help understand a little more our planet.
-#### Learning is a lifelong journey. Curious by nature I find deep satisfaction in learning and sharing new skills
 <!--
 **Fahdben/Fahdben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
