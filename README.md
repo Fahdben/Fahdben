@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Fahd Benatia
 ### Remote sensing engineer with a passion for technology and coding. 
+
+![Fahd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahdben&count_private=true&show_icons=true&hide=issues,prs&theme=tokyonight)
 <!--
 **Fahdben/Fahdben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
